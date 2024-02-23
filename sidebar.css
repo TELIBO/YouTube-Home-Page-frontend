@@ -1,0 +1,29 @@
+.sidebar{
+    bottom:0px;
+    position:fixed;
+    top:55px;
+    left:0px;
+    width:74px;
+    background-color: white;
+    cursor: pointer;
+    z-index: 200;
+}
+.sidebaricon{
+    height: 67px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    transition: 0.35s;
+  }
+  .sidebaricon:hover{
+    background-color: rgb(235,235,235);
+  }
+  .sicon{
+    height:23px;
+  }
+  .para{
+    font-size:9px;
+    font-family: Roboto;
+    margin-top: 3px;
+  }

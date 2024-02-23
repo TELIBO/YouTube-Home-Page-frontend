@@ -1,0 +1,71 @@
+.searchsy .tooltip,.mikesy .tooltip,.tipsy .tooltip{
+    position:absolute;
+    background-color: gray;
+    color:white;
+    padding: 4px 8px 4px 8px;
+    bottom:-30px;
+    font-size: 12px;
+    border-radius: 2px;
+    opacity:0;
+    transition: 0.15s;
+    pointer-events: none;
+    white-space: nowrap;
+  }
+  .searchsy:hover .tooltip,.mikesy:hover .tooltip,.tipsy:hover .tooltip{
+    opacity:1;
+  }
+  .tipsy{
+    position:relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+  }
+  .subscribers{
+    position: relative;
+    cursor: pointer;
+  }
+  .sub{
+    position:absolute;
+    background-color:white;
+    z-index: 500;
+    padding: 6px;
+    box-shadow:  4px 4px  8px rgba(0, 0, 0, 0.1);
+    display:flex;
+    flex-direction: row;
+    width:210px;
+    border-radius:6px;
+    opacity:0;
+    pointer-events: none;
+    transition: 0.55s;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 8px;
+  }
+  .subscribers:hover .sub{
+    opacity: 1;
+  }
+  .subimage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right:8px;
+    padding-left:4px;
+  }
+  .subcount{
+ display:flex;
+ flex-direction: column;
+  }
+ .pop-body{
+    font-size: 22px;
+    font-weight: bold;
+    margin:0px;
+ }
+ .pop-data{
+    font-size: 14px;
+    margin:4px 0px 0px 0px;
+ }
+ .thumbna{
+    width:45px;
+    height:45px;
+ }
