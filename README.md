@@ -1,6 +1,4 @@
-**YouTube Homepage Project README**
 
----
 
 ## Project Overview:
 
