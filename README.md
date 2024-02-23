@@ -1,4 +1,6 @@
+**YouTube Homepage Project README**
 
+---
 
 ## Project Overview:
 
@@ -22,11 +24,11 @@ This project is a YouTube homepage replica created using HTML and CSS. The aim w
 
 1. **Cloning the Repository:**
    ```bash
-  git clone https://github.com/TELIBO/YouTube-Home-Page-frontend.git
+   git clone https://github.com/TELIBO/youtube-homepage-frontend.git
    ```
 
-2. **Open `youtube.html` in a Web Browser:** 
-   Open the `youtube.html` file in your preferred web browser to view the YouTube homepage replica. Explore the different channels by navigating through the provided toolkits.
+2. **Open `index.html` in a Web Browser:** 
+   Open the `index.html` file in your preferred web browser to view the YouTube homepage replica. Explore the different channels by navigating through the provided toolkits.
 
 3. **Customization:**
    Feel free to customize the content and appearance of the channels by editing the respective HTML and CSS files. You can add your own videos, adjust styling properties, and personalize the channels to your liking.
@@ -38,3 +40,25 @@ This project is a YouTube homepage replica created using HTML and CSS. The aim w
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request to the GitHub repository.
 
 ---
+
+## License:
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+## Acknowledgments:
+
+Special thanks to YouTube for providing inspiration for this project. Additionally, thanks to the open-source community for valuable resources and guidance.
+
+---
+
+## Contact:
+
+For any inquiries or feedback, feel free to contact:
+- [Your Email Address]
+- [Your Website/Portfolio]
+
+---
+
+Thank you for checking out this YouTube Homepage Project! Happy coding! 🚀✨
