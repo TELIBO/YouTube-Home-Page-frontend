@@ -1,6 +1,4 @@
-**YouTube Homepage Project README**
 
----
 
 ## Project Overview:
 
@@ -46,19 +44,3 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
-## Acknowledgments:
-
-Special thanks to YouTube for providing inspiration for this project. Additionally, thanks to the open-source community for valuable resources and guidance.
-
----
-
-## Contact:
-
-For any inquiries or feedback, feel free to contact:
-- [Your Email Address]
-- [Your Website/Portfolio]
-
----
-
-Thank you for checking out this YouTube Homepage Project! Happy coding! 🚀✨
