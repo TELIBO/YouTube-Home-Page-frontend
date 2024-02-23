@@ -22,7 +22,7 @@ This project is a YouTube homepage replica created using HTML and CSS. The aim w
 
 1. **Cloning the Repository:**
    ```bash
-   git clone https://github.com/yourusername/youtube-homepage-project.git
+  git clone https://github.com/TELIBO/YouTube-Home-Page-frontend/edit/main/README.md
    ```
 
 2. **Open `youtube.html` in a Web Browser:** 
